@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Software Developer<br>👯 I’m looking to collaborate on AI and ML projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning ML/Data Science<br>💬 Ask me about Python And Web Scrapping<br>⚡ Fun fact : 70 % Web Scrapping is done by Using Requests and GPT - 4 is Scary Genius
+🔭 I’m a Machine Learning Engineering<br>👯 I’m looking to collaborate on AI and ML projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning ML/Data Science<br>💬 Ask me about Python And Web Scrapping<br>⚡ Fun fact : 70 % Web Scrapping is done by Using Requests and GPT - 4 is Scary Genius
 
 
 ## 🌐 Socials:
